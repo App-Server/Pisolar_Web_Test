@@ -200,6 +200,14 @@ section { /*Espaço banner e nossa história */
     margin-left: 320px;
 }
 
+.whatsapp {
+    position: fixed;
+    top: 82%;
+    right: 1%;
+    padding: 10px;
+    z-index: 10000000;
+}
+
 footer {
     font-family: 'Roboto', 'Ubuntu';
     text-align: center;
